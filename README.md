@@ -1,5 +1,5 @@
-# Snake
->Snake project for iOS with Swift 4.
+# Snake_Arkit 
+>Snake_Arkit  project for iOS with Swift 4.
 
 ## Requirement
 * iOS 11
@@ -16,7 +16,7 @@
 Simply navigate to your directory of interest, then clone.
 
 ```bash
-$ git clone https://github.com/onurcelikeng/Snake.git
+$ git clone https://github.com/onurcelikeng/Snake_Arkit .git
 ```
 
 ## To-do list
@@ -37,4 +37,4 @@ $ git clone https://github.com/onurcelikeng/Snake.git
 * **Elif Seray Donmez** - [GitHub](https://github.com/esdonmez)
 
 ## License
-Snake is released under the [MIT License](LICENSE).
+Snake_Arkit  is released under the [MIT License](LICENSE).
